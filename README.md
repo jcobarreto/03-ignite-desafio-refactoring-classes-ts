@@ -1,8 +1,8 @@
 # :pizza: goRestaurant
 
-** Para executar esse projeto será necessário abrir dois terminais, um para o servidor (backend) e outro para o frontend. **
+Para executar esse projeto será necessário abrir dois terminais, um para o servidor (backend) e outro para o frontend.
 
-#### Executando o projeto na sua máquina 
+#### Executando o projeto:
 
 ```bash 
 # Clone o repositório
